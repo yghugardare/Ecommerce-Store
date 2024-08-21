@@ -2,7 +2,15 @@ import React from 'react'
 
 function page() {
   return (
-    <div>Admin Page</div>
+    <div>
+      <div>
+        Admin Page
+      </div>
+      <div>
+        Some routes
+      </div>
+      <div>Orders</div>
+    </div>
   )
 }
 
